@@ -1,5 +1,6 @@
 # Python/Flask Tutorial for Visual Studio Code
-This is my readme 
+# This is my readme 
+[![Build Status](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_apis/build/status%2Fbrundhapalanirasu.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_build/latest?definitionId=13&branchName=main)
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
 
@@ -31,3 +32,5 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 * This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 * For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 * Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
